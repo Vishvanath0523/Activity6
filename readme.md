@@ -1,5 +1,3 @@
-# In-Class Activity: Manipulable View
-
 **Visualization Features:**
 
 * Data Modification
